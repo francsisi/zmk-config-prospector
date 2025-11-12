@@ -1,5 +1,5 @@
 # Prospector Scanner Releases
-
+#
 This document contains detailed release notes and upgrade instructions for the Prospector Scanner system.
 
 ## 🎉 v1.1.1 - Enhanced Experience (2025-08-29)
