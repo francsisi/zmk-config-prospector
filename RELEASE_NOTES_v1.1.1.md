@@ -1,4 +1,7 @@
 # 🎉 Prospector Scanner v1.1.1 Release Notes
+
+https://zenn.dev/kot149/articles/prospector-touch
+
 #
 **Release Date**: August 29, 2025  
 **Version**: v1.1.1 "Enhanced Experience"  
