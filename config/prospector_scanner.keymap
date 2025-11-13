@@ -14,8 +14,8 @@
 #include <dt-bindings/zmk/input_transform.h>
 #include <zephyr/dt-bindings/input/input-event-codes.h>
 
-//#include <behaviors/input_processor_gestures.dtsi>
-//#include <behaviors/input_processor_absolute_to_relative.dtsi>
+#include <behaviors/input_processor_gestures.dtsi>
+#include <behaviors/input_processor_absolute_to_relative.dtsi>
 
 / {
     keymap {
