@@ -6,8 +6,8 @@ manifest:
       url-base: https://github.com/ssbb
     - name: halfdane
       url-base: https://github.com/halfdane
-    - name: kot149
-      url-base: https://github.com/kot149
+    - name: francsisi
+      url-base: https://github.com/francsisi
   projects:
     - name: zmk
       remote: zmkfirmware
