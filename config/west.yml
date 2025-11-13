@@ -19,5 +19,12 @@ manifest:
       remote: prospector
       revision: feature/v2.0-scanner-touch-fixed
       path: modules/prospector-zmk-module
+    # ADD
+    # https://github.com/halfdane/zmk-input-processors
+    - name: zmk-input-processors
+      remote: halfdane
+      revision: main
+      path: modules/zmk-input-processors
+
   self:
     path: config
